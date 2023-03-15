@@ -51,6 +51,7 @@ DataTables displays the HTML table as a searchable database<br>
 The code for this application is organized as follows:
 
 ***'jotform:'*** the custom funeral planning submission form that records the data for new entries.<br>
+***'google sheet:'*** the spreadsheet to which jotform data is recorded via built-in jotform integration.<br>
 ***'index.html:'*** the main HTML file that includes the the DataTables table.<br>
 ***'data.json:'*** the JSON file that stores the data submitted through the form.<br>
 ***'datatables.min.js:'*** the modified DataTables library that includes the custom export button.<br>
