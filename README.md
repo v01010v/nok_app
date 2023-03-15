@@ -50,13 +50,11 @@ DataTables displays the HTML table as a searchable database<br>
 
 The code for this application is organized as follows:
 
-***jotform:*** the custom funeral planning submission form that records the data for new entries.<br>
-***index.html:*** the main HTML file that includes the the DataTables table.<br>
-***data.json:*** the JSON file that stores the data submitted through the form.<br>
-***submit.php:*** the PHP file that handles the form submission and updates the JSON file.<br>
-***config.php:*** the PHP file that contains application settings and configuration.<br>
-***datatables.min.js:*** the modified DataTables library that includes the custom export button.<br>
-***main.js:*** the JavaScript file that initializes and customizes the DataTables table and export button.<br>
+***'jotform:'*** the custom funeral planning submission form that records the data for new entries.<br>
+***'index.html:'*** the main HTML file that includes the the DataTables table.<br>
+***'data.json:'*** the JSON file that stores the data submitted through the form.<br>
+***'datatables.min.js:'*** the modified DataTables library that includes the custom export button.<br>
+***'app.js:'*** the JavaScript file that parses JSON.<br>
 
 ******************************************************************************************************************
 
